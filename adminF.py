@@ -102,8 +102,8 @@ def AdminFind2(link,link_S):
 def credit():
 	print '''
 	%s
-	AdminFinder by Maxstreiker 
-	https://github.com/maxstreiker/
+	AdminFinder by Foxstreiker 
+	https://github.com/foxstreiker/
 	%s
 	'''% (yel,norm)
 
